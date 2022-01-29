@@ -8,7 +8,7 @@ Baseada em 7 pilares como na imagem abaixo:
 
 Área geograficamente localizada, possui 1 ou mais **Avaliablity Domains**
 
-### Avaliability Domains (AD)
+### Availability Domains (AD)
 
 - AD's não compartilham infraestrutura física
 - Disponibilidade de Falha Independente
@@ -18,8 +18,9 @@ Baseada em 7 pilares como na imagem abaixo:
     
 ### Fault Domains (FD)
 
-- Possui objetivo, dentro de cada Avaliability Domain, de prevenir falhas de hardware
+- Possui objetivo, dentro de cada Availability Domain, de prevenir falhas de hardware
 - FD não compartilha "single points" de falha de hardware (também podemos chamar de nó dentro do AD)
 - Ajudam a diminuir as falhas de servidor ao máximo possível
 - Podemos isolar nossos recursos (VMs, DBs...) em cada FD para evitar que todos recursos fiquem fora do ar
 
+![](../assets/img/topic1_img2.png)
