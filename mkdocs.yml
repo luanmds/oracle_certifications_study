@@ -2,9 +2,11 @@ site_name: Estudos Certificação OCI
 repo_url: https://github.com/luanmds/oracle_certifications_study
 repo_name: luanmds/oracle_certifications_study
 pages: 
-- Home: 'index.md'
-- Arquitetura OCI: 'oci_architecture.md'
-- IAM: 'IAM.md'
+  - Home: 'index.md'
+  - Arquitetura OCI: 'oci_architecture.md'
+  - IAM: 'IAM.md'
+  - Networking: 'networking.md'
+  - Compute: 'compute.md'
 theme:
   icon:
     logo: material/library
