@@ -8,6 +8,8 @@ pages:
   - Networking: 'networking.md'
   - Compute: 'compute.md'
   - Storage: 'storage.md'
+  - Databases: 'database.md'
+  - Security: 'security.md'
 theme:
   icon:
     logo: material/library

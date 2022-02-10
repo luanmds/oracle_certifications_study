@@ -1,16 +1,16 @@
 # Compute 
 
 Serviço da OCI para providenciar Virtual Machines (VMs) e Servidores Bare Metal.
-
-# Compute Instances 
-
 ## Flexible Shapes
 
 Ferramenta para selecionar o tipo certo de máquina. Pode-se escolher OCPUs e Memória RAM para a VM.
 
 Podemos escolher também o tipo do processador: Intel, AMD ou ARM (Ampere)
 
-## Tipos de Instâncias
+Exemplo ilustrativo:
+![](../assets/img/topic4_img5.png)
+
+## Tipos de Instâncias (Compute Instances)
 
 Há 3 tipos de instâncias:
 
