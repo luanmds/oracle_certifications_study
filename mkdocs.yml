@@ -12,6 +12,7 @@ pages:
   - Security: 'security.md'
   - AppDev: 'app_dev.md'
   - Observability and Monitoring: 'observ_management.md'
+  - Analytics And AI: 'analytics_ai.md'
 theme:
   icon:
     logo: material/library
