@@ -10,6 +10,8 @@ pages:
   - Storage: 'storage.md'
   - Databases: 'database.md'
   - Security: 'security.md'
+  - AppDev: 'app_dev.md'
+  - Observability and Monitoring: 'observ_management.md'
 theme:
   icon:
     logo: material/library

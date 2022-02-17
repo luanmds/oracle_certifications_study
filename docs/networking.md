@@ -40,6 +40,9 @@ Pode ser um serviço regional, está presente em uma **Region** mas pode se cruz
 - Acesso a Internet, Redes On-Premises e Peered VCN
 
 #### Peering
+
+Serviço *multitenancy* com 2 modos:
+
 - **Remote VCN Peering**
     - Conexão remota entre VCNs de duas **Regions** OCI distintas.
 - **Local VCN Peering**
