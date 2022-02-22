@@ -1,4 +1,4 @@
-# Estudos Certificação Oracle
+# Estudos Certificação Oracle Cloud Infrastructure
 
 ## Tecnologias envolvidas
 
@@ -26,4 +26,4 @@
     ```cmd
     mkdocs serve --dev-addr=0.0.0.0:80
     ```
-- Abrir seu browser favorito e acessar: http://localhost:80
+- Abrir seu browser favorito e acessar: http://localhost
